@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class WelcomeScreen implements Screens {
 
     private String welcomeText = "Welcome to VirtualKey!";
-    private String developerText = "Developer: Melvin Wu";
+    private String developerText = "Developer: Bishal Das";
 
     private ArrayList<String> options = new ArrayList<>();
 
